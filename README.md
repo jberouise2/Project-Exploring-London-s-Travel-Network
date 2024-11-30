@@ -36,4 +36,4 @@ Note that *in Snowflake all databases, tables, and columns are **upper case*** b
 You will execute SQL queries to answer three questions, as listed in the instructions.
 
 # `Solution`
-[sql_solution]()
+[sql_solution](https://github.com/jberouise2/Project-Exploring-London-s-Travel-Network/blob/222722a4bcf0df0c15599fd5b440b5fec8f18ed7/notebook.ipynb)
