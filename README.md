@@ -9,8 +9,9 @@ Given the city's roads were originally designed for horse and cart, this area an
 
 The Mayor of London's office make their data available to the public [here](https://data.london.gov.uk/dataset). In this project, you will work with a slightly modified version of a dataset containing information about public transport journey volume by transport type. 
 
-The data has been loaded into a **Snowflake** database called `TFL` with a single table called `JOURNEYS`, including the following data:
+The data has been loaded into a **Snowflake** database called `TFL` with a single table called `JOURNEYS`, including the following data:  
 
+# `Task`
 Write three SQL queries to answer the following questions:
 
 -What are the most popular transport types, measured by the total number of journeys? The output should contain two columns, 1) JOURNEY_TYPE and 2) TOTAL_JOURNEYS_MILLIONS, and be sorted by the second column in descending order. Save the query as most_popular_transport_types.  
